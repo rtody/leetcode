@@ -1,4 +1,4 @@
-# Version 1, function getImportance() takes list of Employee object as parameters
+# Version 1, function getImportance() takes list of Employee attributes as parameters
 
 # Employee info
 class Employee:
